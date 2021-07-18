@@ -1,0 +1,17 @@
+
+header{
+
+    @include flexCenter(row);
+    
+    background-color: $primaryColor;
+    
+    &:hover{
+        background-color: aqua;
+
+    }
+    
+ button{ 
+    background-color: $buttonColor;
+    
+    }
+}
