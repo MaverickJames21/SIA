@@ -1,0 +1,10 @@
+main{
+
+
+@include flexCenter(column);
+background-color: $buttonColor;
+
+h1{
+    color: $primaryColor;
+}
+}
